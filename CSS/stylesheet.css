@@ -1,0 +1,122 @@
+body {
+    background-color: #141C7F;
+	padding: 0%;
+	margin: 0%;
+}
+
+nav {
+	background-color: #050A4A;
+	width: 100%;
+	border: solid 3px black;
+	text-align: right;
+	margin-bottom: 2%; 
+}
+
+nav li {
+	display: inline;
+	padding-right: 1.5%;
+	list-style-type:none;
+} 
+
+nav a {
+	display: inline-block;
+	border: solid 2px black;
+	color: white;
+	padding: 1%;
+	background-color: #141C7F;
+}
+
+nav a:link {
+	color: white;
+	background-color: #141C7F;
+	text-decoration: none; 
+}
+
+nav a:hover {
+	color: white;
+	background-color: #050A4A;
+	text-decoration: none;
+}
+
+nav img {
+	float: left;
+	display: inline;
+	width: 4%;
+	height: 2.5%;
+	margin-left: 2.6%;
+}
+
+footer {
+	background-color: #050A4A;
+	border: solid 3px black;
+	text-align: center;
+	margin-top: 2%;
+}
+
+#footer {
+	color: white;
+}
+
+.pagina-inhoud {
+	text-align: center;
+	background-color: white;
+	margin-left: 2%;
+	margin-right: 2%;
+	border: solid 3px black;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+
+.s-t {
+	font-size: 250%;
+	font-family: sans-serif;
+	color: black;
+}
+
+.t-t {
+	font-size: 200%;
+	font-family: sans-serif;
+	color: black;
+}
+
+.n-t {
+	font-size: 125%;
+	font-family: sans-serif;
+	color: black;
+}
+
+#pic1 {
+	border: solid 2px black;
+	width: 50%;
+}
+
+#pic2 {
+	border: solid 2px black;
+	width: 52%;
+}
+
+#pic3 {
+	border: solid 2px black;
+	width: 48%;
+}
+
+#pic4 {
+	border: solid 2px black;
+	width: 49%;
+}
+
+#pic5 {
+	border: solid 2px black;
+	width: 60%;
+}
+
+#pic6 {
+	border: solid 2px black;
+	width: 65%;
+}
+
+#pic7 {
+	border: solid 2px black;
+	width: 55%;
+}
